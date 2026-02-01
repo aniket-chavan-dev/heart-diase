@@ -1,4 +1,5 @@
+streamlit>=1.30
 pandas
 scikit-learn
 joblib
-streamlit
+altair>=5
